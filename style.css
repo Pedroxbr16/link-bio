@@ -54,7 +54,7 @@ a {
 
 
 :root {
-    --color-green: #8FE20E;
+    --color-green: #6078ff;
     --color-black: #202020;
     --color-white: #fafafa;
 }
@@ -228,6 +228,13 @@ a {
 .skills-icons .fa-wordpress:hover {
     color: #21759b;
 }
+.skills-icons .fa-git:hover {
+    color: #f05032;
+}
+
+.skills-icons .fa-figma:hover {
+    color: #f24e1e;
+}
 
 /****************** WIDGET 3 */
 .widget3 {
@@ -314,7 +321,7 @@ a {
 }
 
 .redes-sociais .tiktok:hover i {
-    color: #000;
+    color: #0866FF;
     transition: color 0.3s;
 }
 
